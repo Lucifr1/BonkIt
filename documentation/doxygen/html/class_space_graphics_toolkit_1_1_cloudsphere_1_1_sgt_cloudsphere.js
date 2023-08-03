@@ -1,0 +1,25 @@
+var class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere =
+[
+    [ "HasChild", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a3d01adb29f3fa9ee8f8c421ea45448c6", null ],
+    [ "LateUpdate", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a37552ad3f443aed16c616e8b311f42f1", null ],
+    [ "OnDestroy", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#ab14fea82b52edc8728f3e5a877c9519c", null ],
+    [ "OnDisable", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#ac48c31c2d165f72100c490876c515058", null ],
+    [ "OnEnable", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a8fe3c1252bb159e340365957bf23e836", null ],
+    [ "SyncMaterial", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a6cf6768302a49e5ba960df6d2ee0b8d7", null ],
+    [ "material", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a128ad5f271e94537065aa6ba4f2ff0d7", null ],
+    [ "Brightness", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a4577afa8d823a3fde921e8aa76d28a41", null ],
+    [ "CameraOffset", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#afc1b5fb5f890c4cc9d7fd9b713a22bec", null ],
+    [ "Color", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#ae856afc535588dc413a33973ddd65d49", null ],
+    [ "MainTex", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a5121e174c6625a299e2ad7d120501e22", null ],
+    [ "Material", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a0af48d5196f0ca969557f000d09c7ef2", null ],
+    [ "Mesh", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a24b5ef78f68207614b91bfddddfb71a4", null ],
+    [ "MeshRadius", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#acdf81be3e4c528f9c204f114021c28e3", null ],
+    [ "Model", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a5d193d8521d3ee0cbc9ae3967656082d", null ],
+    [ "NeedsDepthTex", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a25099230c115026734ed26fe0fecf8cf", null ],
+    [ "NeedsLightingTex", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a9171c267a1c8cb499f81301edf365fed", null ],
+    [ "NeedsNearTex", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#afc400aa7a4916df9486594ecbabad182", null ],
+    [ "Radius", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#ae44ad4051cdd1e9fca6fc61fe0872423", null ],
+    [ "Softness", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a6e4bdb156101d0818705fd8efe7eac76", null ],
+    [ "SourceMaterial", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a98b3fab91162237307bc1113b7a86eca", null ],
+    [ "OnSetProperties", "class_space_graphics_toolkit_1_1_cloudsphere_1_1_sgt_cloudsphere.html#a87985a36b1dce03dc029d03ea98994e5", null ]
+];

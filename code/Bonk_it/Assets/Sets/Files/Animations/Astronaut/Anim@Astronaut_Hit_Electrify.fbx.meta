@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 4b0557c6e3052fe459d2e9eae514a080
+timeCreated: 1527615561
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Backpack_Antenna_Joint1
+    100004: Backpack_Antenna_Joint3
+    100006: Backpack_Flap_Joint
+    100008: Backpack_Joint
+    100010: Backpack_Rocket_Joint1
+    100012: Backpack_Rocket_Joint2
+    100014: Backpack_Rotator_Joint1
+    100016: Backpack_Rotator_Joint2
+    100018: Belly_Joint
+    100020: Clavicle_L_Joint
+    100022: Clavicle_R_Joint
+    100024: Elbow_L_Joint
+    100026: Elbow_R_Joint
+    100028: Head_Joint
+    100030: Heel_L_Joint
+    100032: Heel_R_Joint
+    100034: Hip_Joint
+    100036: Index_L_Joint1
+    100038: Index_L_Joint2
+    100040: Index_L_Joint3
+    100042: Index_R_Joint1
+    100044: Index_R_Joint2
+    100046: Index_R_Joint3
+    100048: Knee_L_Joint
+    100050: Knee_R_Joint
+    100052: Leg_L_Joint
+    100054: Leg_R_Joint
+    100056: Middle_L_Joint1
+    100058: Middle_L_Joint2
+    100060: Middle_L_Joint3
+    100062: Middle_R_Joint1
+    100064: Middle_R_Joint2
+    100066: Middle_R_Joint3
+    100068: Neck_Joint
+    100070: Pink_L_Joint1
+    100072: Pink_L_Joint2
+    100074: Pink_L_Joint3
+    100076: Pink_R_Joint1
+    100078: Pink_R_Joint2
+    100080: Pink_R_Joint3
+    100082: Root_Joint
+    100084: Shoulder_L_Joint
+    100086: Shoulder_R_Joint
+    100088: Spine_Joint1
+    100090: Spine_Joint2
+    100092: Thumb_L_Joint1
+    100094: Thumb_L_Joint2
+    100096: Thumb_L_Joint3
+    100098: Thumb_R_Joint1
+    100100: Thumb_R_Joint2
+    100102: Thumb_R_Joint3
+    100104: Toe_L_Joint
+    100106: Toe_R_Joint
+    100108: Wrist_ITEM_Joint
+    100110: Wrist_ITEM_Joint 1
+    100112: Wrist_L_Joint
+    100114: Wrist_R_Joint
+    400000: //RootNode
+    400002: Backpack_Antenna_Joint1
+    400004: Backpack_Antenna_Joint3
+    400006: Backpack_Flap_Joint
+    400008: Backpack_Joint
+    400010: Backpack_Rocket_Joint1
+    400012: Backpack_Rocket_Joint2
+    400014: Backpack_Rotator_Joint1
+    400016: Backpack_Rotator_Joint2
+    400018: Belly_Joint
+    400020: Clavicle_L_Joint
+    400022: Clavicle_R_Joint
+    400024: Elbow_L_Joint
+    400026: Elbow_R_Joint
+    400028: Head_Joint
+    400030: Heel_L_Joint
+    400032: Heel_R_Joint
+    400034: Hip_Joint
+    400036: Index_L_Joint1
+    400038: Index_L_Joint2
+    400040: Index_L_Joint3
+    400042: Index_R_Joint1
+    400044: Index_R_Joint2
+    400046: Index_R_Joint3
+    400048: Knee_L_Joint
+    400050: Knee_R_Joint
+    400052: Leg_L_Joint
+    400054: Leg_R_Joint
+    400056: Middle_L_Joint1
+    400058: Middle_L_Joint2
+    400060: Middle_L_Joint3
+    400062: Middle_R_Joint1
+    400064: Middle_R_Joint2
+    400066: Middle_R_Joint3
+    400068: Neck_Joint
+    400070: Pink_L_Joint1
+    400072: Pink_L_Joint2
+    400074: Pink_L_Joint3
+    400076: Pink_R_Joint1
+    400078: Pink_R_Joint2
+    400080: Pink_R_Joint3
+    400082: Root_Joint
+    400084: Shoulder_L_Joint
+    400086: Shoulder_R_Joint
+    400088: Spine_Joint1
+    400090: Spine_Joint2
+    400092: Thumb_L_Joint1
+    400094: Thumb_L_Joint2
+    400096: Thumb_L_Joint3
+    400098: Thumb_R_Joint1
+    400100: Thumb_R_Joint2
+    400102: Thumb_R_Joint3
+    400104: Toe_L_Joint
+    400106: Toe_R_Joint
+    400108: Wrist_ITEM_Joint
+    400110: Wrist_ITEM_Joint 1
+    400112: Wrist_L_Joint
+    400114: Wrist_R_Joint
+    7400000: Astronaut_Hit_Electrify
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Astronaut_Hit_Electrify
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Belly_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Leg_L_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Leg_L_Joint/Knee_L_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Leg_L_Joint/Knee_L_Joint/Heel_L_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Leg_L_Joint/Knee_L_Joint/Heel_L_Joint/Toe_L_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Leg_R_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Leg_R_Joint/Knee_R_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Leg_R_Joint/Knee_R_Joint/Heel_R_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Leg_R_Joint/Knee_R_Joint/Heel_R_Joint/Toe_R_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Backpack_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Backpack_Joint/Backpack_Antenna_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Backpack_Joint/Backpack_Antenna_Joint1/Backpack_Antenna_Joint3
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Backpack_Joint/Backpack_Flap_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Backpack_Joint/Backpack_Rotator_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Backpack_Joint/Backpack_Rotator_Joint1/Backpack_Rotator_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Backpack_Joint/Backpack_Rotator_Joint1/Backpack_Rotator_Joint2/Backpack_Rocket_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Backpack_Joint/Backpack_Rotator_Joint1/Backpack_Rotator_Joint2/Backpack_Rocket_Joint1/Backpack_Rocket_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Index_L_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Index_L_Joint1/Index_L_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Index_L_Joint1/Index_L_Joint2/Index_L_Joint3
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Middle_L_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Middle_L_Joint1/Middle_L_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Middle_L_Joint1/Middle_L_Joint2/Middle_L_Joint3
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Pink_L_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Pink_L_Joint1/Pink_L_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Pink_L_Joint1/Pink_L_Joint2/Pink_L_Joint3
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Thumb_L_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Thumb_L_Joint1/Thumb_L_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Thumb_L_Joint1/Thumb_L_Joint2/Thumb_L_Joint3
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_L_Joint/Shoulder_L_Joint/Elbow_L_Joint/Wrist_L_Joint/Wrist_ITEM_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Index_R_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Index_R_Joint1/Index_R_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Index_R_Joint1/Index_R_Joint2/Index_R_Joint3
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Middle_R_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Middle_R_Joint1/Middle_R_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Middle_R_Joint1/Middle_R_Joint2/Middle_R_Joint3
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Pink_R_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Pink_R_Joint1/Pink_R_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Pink_R_Joint1/Pink_R_Joint2/Pink_R_Joint3
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Thumb_R_Joint1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Thumb_R_Joint1/Thumb_R_Joint2
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Thumb_R_Joint1/Thumb_R_Joint2/Thumb_R_Joint3
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Clavicle_R_Joint/Shoulder_R_Joint/Elbow_R_Joint/Wrist_R_Joint/Wrist_ITEM_Joint
+          1
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Neck_Joint
+        weight: 1
+      - path: Root_Joint/Hip_Joint/Spine_Joint1/Spine_Joint2/Neck_Joint/Head_Joint
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root_Joint
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 5c934524737906148a791a346b6fd87d,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
